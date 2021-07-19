@@ -6,7 +6,7 @@
 
 ---
 
-![dfsdf](logo.png)
+![Logo](logo.png)
 
 ---
 
