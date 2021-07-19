@@ -12,24 +12,26 @@
 
 ### **Contact information**
 
-###Sirdarya Yangiyer Uzbekistan
+### Sirdarya Yangiyer Uzbekistan
+
 (+998) 91 - 622 - 25 - 22
-**_99 - 913 - 85 - 01_**
+99 - 913 - 85 - 01
 
 ---
 
-###About me:
+### About me:
 
 > I want to be a web developer. And i want to create wondeful and amazing web sites and web app. I started learning web development earlier this year. And i started to learn HTML, CSS... And i'm learning JS language.
 
 ---
 
-###My Education
+### My Education
+
 [2002 -2007] Faculty of Economics, Gulistan State University
 
 ---
 
-###Scills
+### Scills
 
 - Computer Operator
 - HTML
@@ -38,7 +40,7 @@
 
 ---
 
-###Some code
+### Some code
 
 ```
 const example = (fname, name) => `My name is ${fname} ${name}`;
